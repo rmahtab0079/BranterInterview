@@ -1,0 +1,23 @@
+/* TwitterCard.css */
+.TwitterCard {
+    border: 1px solid #333; /* Darker border color */
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #2b2b2b; /* Darker background color */
+    color: #fff; /* Text color */
+  }
+  
+  .TwitterCard p {
+    margin: 0;
+  }
+  
+  .TwitterCard small {
+    color: #aaa; /* Lighter small text color */
+  }
+  
+  .TwitterCard h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  

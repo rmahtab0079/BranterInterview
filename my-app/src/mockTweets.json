@@ -1,0 +1,43 @@
+[
+    {
+      "id_str": "1",
+      "full_text": "This is the first mock tweet.",
+      "date": "2024-01-08T12:00:00Z",
+      "likes": 10,
+      "reposts": 5,
+      "comments": 3
+    },
+    {
+      "id_str": "2",
+      "full_text": "Mock tweet number two!",
+      "date": "2024-01-08T12:30:00Z",
+      "likes": 20,
+      "reposts": 8,
+      "comments": 2
+    },
+    {
+      "id_str": "3",
+      "full_text": "Just testing mock tweets.",
+      "date": "2024-01-08T13:00:00Z",
+      "likes": 15,
+      "reposts": 3,
+      "comments": 5
+    },
+    {
+      "id_str": "4",
+      "full_text": "Another mock tweet for testing.",
+      "date": "2024-01-08T14:00:00Z",
+      "likes": 30,
+      "reposts": 10,
+      "comments": 7
+    },
+    {
+      "id_str": "5",
+      "full_text": "Last mock tweet in the list.",
+      "date": "2024-01-08T15:00:00Z",
+      "likes": 25,
+      "reposts": 6,
+      "comments": 4
+    }
+  ]
+  
