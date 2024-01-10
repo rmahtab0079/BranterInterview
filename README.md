@@ -2,8 +2,8 @@
 
 Instructions
 
-Build a Chicken Recipe Application.
+Build a Twitter Clone.
 
-Use this public API to get information about Chicken Dishes -> www.themealdb.com/api/json/v1/1/filter.php?i=chicken_breast
+Use this public API to get Twitter Timeline -> https://api.mypanel.ai:443/get_home_timeline
 
 Build a React application.
